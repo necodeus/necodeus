@@ -1,13 +1,12 @@
 # 🔭 I'm currently working on:
 
 ## eCommerce CMS
-- [necodeus/necodeo-system](https://github.com/necodeus/necodeo-system) (private repo)
+- [necodeus/necodeo-system](https://github.com/necodeus/necodeo-system) (PHP 8.1, Laravel 9, MySQL)
 
-Made with PHP 8.1, Laravel 9, MySQL
+
 
 ## eCommerce CMS Theme
-- [necodeus/necodeo-web](https://github.com/necodeus/necodeo-web) (private repo)
-Made with Nuxt.js 2, PostCSS, TailwindCSS
+- [necodeus/necodeo-web](https://github.com/necodeus/necodeo-web) (Nuxt.js 2, PostCSS, TailwindCSS)
 
 # 🌱 I’m currently learning **Machine Learning** :3
 
