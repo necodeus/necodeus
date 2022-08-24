@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning Machine Learning
 
-📫 Reach me on [LinkedIn](in/smulewicz)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/smulewicz/)
