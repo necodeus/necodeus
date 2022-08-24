@@ -1,6 +1,6 @@
 🔭 I'm currently working on:
-- [eCommerce CMS Back-end](https://github.com/necodeus/necodeo-system) (private)
-- [eCommerce CMS Front-end](https://github.com/necodeus/necodeo-web) (private)
+- [eCommerce CMS](https://github.com/necodeus/necodeo-system) (private repo)
+- [eCommerce CMS Theme](https://github.com/necodeus/necodeo-web) (private repo)
 
 🌱 I’m currently learning **Machine Learning**
 
