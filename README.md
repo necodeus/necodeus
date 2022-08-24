@@ -1,11 +1,7 @@
-🔭 I’m currently working on:
+🔭 I'm currently working on:
 - [eCommerce CMS Back-end](https://github.com/necodeus/necodeo-system) (private)
 - [eCommerce CMS Front-end](https://github.com/necodeus/necodeo-web) (private)
 
-🌱 I’m currently learning:
-- Python
-- Deep Learning
+🌱 I’m currently learning Machine Learning
 
-📫 How to reach me:
-- E-mail: dawid at necodeo.com
-- LinkedIn: in/smulewicz
+📫 Reach me on [LinkedIn](in/smulewicz)
