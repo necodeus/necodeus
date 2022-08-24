@@ -9,7 +9,7 @@
 - [necodeus/necodeo-web](https://github.com/necodeus/necodeo-web) (Nuxt.js 2, PostCSS, TailwindCSS)
 
 # 🌱 I’m currently learning:
-- **Machine Learning** :3
+- Machine Learning :3
 
 # 📫 You can reach me on
-- [LinkedIn](https://www.linkedin.com/in/smulewicz/)
+- [www.linkedin.com/in/smulewicz](https://www.linkedin.com/in/smulewicz/)
