@@ -10,4 +10,5 @@
 
 # 🌱 I’m currently learning **Machine Learning** :3
 
-# 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/smulewicz/)
+# 📫 You can reach me on
+- [LinkedIn](https://www.linkedin.com/in/smulewicz/)
