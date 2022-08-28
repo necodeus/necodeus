@@ -6,7 +6,7 @@
 
 
 ## eCommerce CMS Theme
-[necodeus/necodeo-web](https://github.com/necodeus/necodeo-web) (Nuxt.js 2, PostCSS, TailwindCSS)
+[necodeus/necodeo-web/tree/magiaziemi](https://github.com/necodeus/necodeo-web/tree/magiaziemi) (Nuxt.js 2, PostCSS, TailwindCSS)
 
 # I’m currently learning 🌱
 Machine Learning :3
