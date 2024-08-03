@@ -1,4 +1,4 @@
-Hej! Programowanie to przede wszystkim moje hobby, ale zajmuje się nim również zawodowo. Obecnie pracuję nad swoim blogiem przy wykorzystaniu różnych frameworków. Zapraszam do zabawy :)
+Programming is primarily my hobby, but I also do it professionally. I'm currently building my blog with a bunch of different frameworks.
 
 **Repozytoria:**
 - publiczne: 6
