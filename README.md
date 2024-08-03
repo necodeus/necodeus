@@ -1,7 +1,7 @@
 Programming is primarily my hobby, but I also do it professionally. I'm currently building my blog with a bunch of different frameworks.
 
 **Repos:**
-- public: 5
+- public: 6
   - node + typescript + next: 1
   - node + typescript + nuxt: 1
   - node + typescript + astro: 1
