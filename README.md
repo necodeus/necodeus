@@ -2,12 +2,12 @@ Programming is primarily my hobby, but I also do it professionally. I'm currentl
 
 **Repos:**
 - public: 5
-  - next: 1
-  - nuxt: 1
-  - astro: 1
-  - bun: 1
-  - go: 1
-  - php + laravel: 1
+  - node + typescript + next: 1
+  - node + typescript + nuxt: 1
+  - node + typescript + astro: 1
+  - node + typescript + bun: 1
+  - php + mysql + laravel: 1
+  - go + mysql: 1
 - private: 84
   - php/laravel/symfony: 21
   - javascript: 15
