@@ -1,12 +1,13 @@
 Programming is primarily my hobby, but I also do it professionally. I'm currently building my blog with a bunch of different frameworks.
 
 **Repos:**
-- public: 6
-  - react/next: 3
-  - vue/nuxt: 1
-  - go: 1
-  - php/laravel: 1
+- public: 5
+  - next: 1
+  - nuxt: 1
   - astro: 1
+  - bun: 1
+  - go: 1
+  - php + laravel: 1
 - private: 84
   - php/laravel/symfony: 21
   - javascript: 15
