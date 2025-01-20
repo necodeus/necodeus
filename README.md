@@ -24,13 +24,11 @@ https://github.com/necodeus/images-go
 
 # Embedded
 
-Better version of web2rgbmatrix
+**Better version of web2rgbmatrix:**
 
 https://github.com/necodeus/web2esp32
 
----
-
-Play Flappy Bird with an analog controller 
+**Play Flappy Bird with an analog controller:**
 
 https://github.com/necodeus/flappy-esp32-ssd1306-cpp
 
@@ -38,13 +36,13 @@ https://github.com/necodeus/flappy-esp32-ssd1306-cpp
 
 # For true old-school gamers
 
-Run your L2 server locally
+**Run your L2 server locally:**
 
 https://github.com/necodeus/l2j-c5-docker
 
 ---
 
-Server status query tool for game servers (Counter-Strike, Minecraft)
+**Server status query tool for game servers (Counter-Strike, Minecraft):**
 
 https://github.com/necodeus/query-php
 
@@ -52,18 +50,18 @@ https://github.com/necodeus/query-js
 
 ---
 
-Interested in diving into the Silkroad Online internet protocol? Here's a Wireshark Dissector for the international version
+**Interested in diving into the Silkroad Online internet protocol? Here's a Wireshark Dissector for the international version:**
 
 https://github.com/necodeus/wireshark-dissector-1-silkroad
 
 ---
 
-Three levels of SOKOBAN game
+**Three levels of SOKOBAN game:**
 
 https://github.com/necodeus/sokoban-clone-freepascal
 
 ---
 
-A collection of AMXX plugins for customizing gameplay in Counter-Strike servers
+**A collection of AMXX plugins for customizing gameplay in Counter-Strike servers:**
 
 https://github.com/necodeus/amxx-plugins
