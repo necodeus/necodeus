@@ -1,4 +1,4 @@
-## Web Development
+# Web Development
 
 **blog-app-\*:** Blog application made with three different frameworks
 
