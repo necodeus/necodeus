@@ -1,4 +1,4 @@
-# Made for Web
+# For Web
 
 **Blog application made with three different frameworks, all identical in design and functionality:**
 
@@ -22,7 +22,7 @@ https://github.com/necodeus/images-go
 
 ---
 
-# Embedded
+# For Embedded Systems
 
 **Better version of web2rgbmatrix:**
 
