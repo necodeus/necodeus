@@ -16,7 +16,7 @@ https://github.com/necodeus/blog-api-laravel11
 
 https://github.com/necodeus/blog-liveserver-bun
 
-**Service for generating thumbnails, used by blog apps:**
+**Service for generating and serving thumbnails, used by blog apps:**
 
 https://github.com/necodeus/images-go
 
