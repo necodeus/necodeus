@@ -50,7 +50,7 @@ https://github.com/necodeus/query-js
 
 ---
 
-**Interested in diving into the Silkroad Online internet protocol? Here's a Wireshark Dissector for the international version:**
+**Explore the Silkroad Online game server protocol with this Wireshark Dissector:**
 
 https://github.com/necodeus/wireshark-dissector-1-silkroad
 
