@@ -1,4 +1,4 @@
-# Web Development
+# Made for Web
 
 **Blog application made with three different frameworks, all identical in design and functionality:**
 
