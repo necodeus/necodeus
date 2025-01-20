@@ -24,7 +24,7 @@ https://github.com/necodeus/images-go
 
 # For Embedded Systems
 
-**Wanna run GIFs from SD Card on your HUB75 LED Display? Here's a better version of web2rgbmatrix:**
+**Wanna run GIFs from SD Card on your HUB75 LED Display?:**
 
 https://github.com/necodeus/web2esp32
 
