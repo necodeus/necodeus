@@ -12,7 +12,7 @@ https://github.com/necodeus/blog-app-astro4
 
 https://github.com/necodeus/blog-api-laravel11
 
-**Previously used WebSocket server built with Bun (no longer supported by blog apps):**
+**WebSocket server previously used by my blog applications, which no longer support it:**
 
 https://github.com/necodeus/blog-liveserver-bun
 
