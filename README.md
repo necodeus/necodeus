@@ -1,6 +1,6 @@
 # Web Development
 
-Blog application made with three different frameworks
+**Blog application made with three different frameworks:**
 
 https://github.com/necodeus/blog-app-nuxt3
 
@@ -8,21 +8,15 @@ https://github.com/necodeus/blog-app-next15
 
 https://github.com/necodeus/blog-app-astro4
 
----
-
-Web API used by my blog applications
+**A Laravel 11-based API powering blog applications:**
 
 https://github.com/necodeus/blog-api-laravel11
 
----
-
-WebSocket server previously used by my blog applications, but they no longer support using it
+**Previously used WebSocket server built with Bun (no longer supported by blog apps):**
 
 https://github.com/necodeus/blog-liveserver-bun
 
----
-
-Serve uploaded images & generate thumbnails (used by my blog apps)
+**Service for generating thumbnails, used by blog apps:**
 
 https://github.com/necodeus/images-go
 
