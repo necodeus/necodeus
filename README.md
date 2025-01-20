@@ -1,7 +1,3 @@
-# Projects
-
----
-
 ## Web Development
 
 **blog-app-\*:** Blog application made with three different frameworks
@@ -32,7 +28,7 @@ https://github.com/necodeus/images-go
 
 ---
 
-# IoT
+# Embedded
 
 **web2esp32:** Better version of web2rgbmatrix
 
@@ -46,7 +42,7 @@ https://github.com/necodeus/flappy-esp32-ssd1306-cpp
 
 ---
 
-# For true oldschool gamers
+# For true old-school gamers
 
 **l2j-c5-docker:** Run your L2 server locally
 
