@@ -1,6 +1,6 @@
 # Web Development
 
-**Blog application made with three different frameworks:**
+**Blog application made with three different frameworks, all identical in design and functionality:**
 
 https://github.com/necodeus/blog-app-nuxt3
 
