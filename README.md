@@ -34,7 +34,7 @@ https://github.com/necodeus/flappy-esp32-ssd1306-cpp
 
 ---
 
-# For true old-school gamers
+# For True Old-School Gamers
 
 **Run your Lineage II C5 server locally:**
 
