@@ -36,7 +36,7 @@ https://github.com/necodeus/flappy-esp32-ssd1306-cpp
 
 # For true old-school gamers
 
-**Run your L2 server locally:**
+**Run your L2 C5 server locally:**
 
 https://github.com/necodeus/l2j-c5-docker
 
