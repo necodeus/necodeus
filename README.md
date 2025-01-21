@@ -26,7 +26,7 @@ https://blog.necodeo.com/
 
 To preview a different version, set your cookie to: `version=astro`, `version=nuxt`, or `version=next`.
 
-The image generator is currently DOWN. It will be back online after 5:00 PM on January 21, 2025.
+**The image server is currently down**, which is why images are not displayed on the blog. It will be back online after 5:00 PM on January 21, 2025.
 
 ---
 
