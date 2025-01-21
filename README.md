@@ -20,6 +20,14 @@ https://github.com/necodeus/blog-liveserver-bun
 
 https://github.com/necodeus/images-go
 
+**LIVE PREVIEW:**
+
+https://blog.necodeo.com/
+
+To preview a different version, set your cookie to: `version=astro`, `version=nuxt`, or `version=next`.
+
+The image generator is currently **DOWN**. If you'd like to see it in action, please check back on January 21, 2025. Thank you.
+
 ---
 
 # For Embedded Systems
