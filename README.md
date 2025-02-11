@@ -1,4 +1,4 @@
-# For Web
+# Web
 
 **Blog application made with three different frameworks, all identical in design and functionality:**
 
@@ -28,7 +28,7 @@ To preview a different version, set your cookie to: `version=astro`, `version=nu
 
 ---
 
-# For Embedded Systems
+# Embedded Systems
 
 **Wanna run GIFs from SD Card on your HUB75 LED Display?:**
 
