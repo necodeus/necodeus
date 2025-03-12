@@ -1,7 +1,8 @@
 # boot.dev
 
 - https://github.com/necodeus/pokedex-go
-- https://github.com/necodeus/guildmetrics-go
+- https://github.com/necodeus/guildmetrics-go (data importer & api)
+- https://github.com/necodeus/guildmetrics-astro (app)
 
 # Web
 
