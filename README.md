@@ -1,9 +1,3 @@
-# boot.dev
-
-- https://github.com/necodeus/pokedex-go
-- https://github.com/necodeus/guildmetrics-go (data importer & api)
-- https://github.com/necodeus/guildmetrics-astro (app)
-
 # Web
 
 **Blog application made with three different frameworks, all identical in design and functionality:**
